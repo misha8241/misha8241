@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola! Soc Mykhailo 👋
 
-<!--
-**misha8241/misha8241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soc estudiant de **Desenvolupament d'Aplicacions Multiplataforma (DAM)**.
+Estic aprenent a crear pàgines web i a utilitzar GitHub.
 
-Here are some ideas to get you started:
+## Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- M'interessa la informàtica i el desenvolupament web.
+- Estic aprenent HTML, CSS i Bootstrap.
+- Utilitzo aquest perfil per compartir els meus exercicis de classe.
+
+## Tecnologies que estic aprenent
+
+| Tecnologia | Per a què la utilitzo |
+| ---------- | -------------------- |
+| HTML | Crear l'estructura de les pàgines |
+| CSS | Personalitzar el disseny |
+| Bootstrap | Crear pàgines responsive |
+| Markdown | Escriure documentació |
+
+## Els meus objectius
+
+1. Millorar els meus coneixements de programació.
+2. Practicar amb petits projectes.
+3. Aprendre a treballar amb Git i GitHub.
+
+## Els meus projectes
+
+He creat una pàgina inspirada en U.GG amb **HTML, CSS i Bootstrap**.
+També he practicat animacions amb CSS.
+
+Pots trobar els meus repositoris al [meu perfil de GitHub](https://github.com/misha8241).
+
+> Aprendre, practicar i millorar cada dia.
+
+*Aquest perfil està escrit amb Markdown al fitxer `README.md`.*
