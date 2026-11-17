@@ -33,4 +33,3 @@ Pots trobar els meus repositoris al [meu perfil de GitHub](https://github.com/mi
 
 > Aprendre, practicar i millorar cada dia.
 
-*Aquest perfil està escrit amb Markdown al fitxer `README.md`.*
